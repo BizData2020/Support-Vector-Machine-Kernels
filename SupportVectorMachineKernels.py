@@ -257,7 +257,7 @@ svm.visualize()
                    
 ##################  End ################
                 
-# Example outpur:
+# Example output:
 #
 # Optimized a step
 # Optimized a step
