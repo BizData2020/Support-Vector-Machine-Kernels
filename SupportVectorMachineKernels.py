@@ -29,7 +29,7 @@ class Support_Vector_Machine:
             self.fig = plt.figure()
             self.ax = self.fig.add_subplot(1,1,1) # 1x1 grid, plot #1
 
-# train / optimize our data 
+# train / optimize our data
 #
     def fit(self, data): 
         self.data = data
